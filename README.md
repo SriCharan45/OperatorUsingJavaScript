@@ -7,7 +7,7 @@ This project demonstrates a simple web application that allows users to input tw
 - `index.html`: The main HTML file containing the structure of the web page.
 - `styles.css`: The CSS file containing the styles for the web page elements.
 - `jquery.min.js`: The jQuery library file used for DOM manipulation and event handling.
-- `index.js`: The JavaScript file containing the logic for performing addition.
+- `index.js`: The JavaScript file containing the logic for performing required operations.
 
 ## How to Use
 
